@@ -1,0 +1,18 @@
+.a{
+    display: flex;
+    background-color: brown;
+    max-width: 40%;
+    margin: auto;
+}
+
+
+app-calc-result{
+    background-color:gray;
+
+}
+app-calc-input{
+    background-color: aqua;
+    margin: auto;
+    size: 67px;
+
+}
